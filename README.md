@@ -32,4 +32,4 @@ Reactivation will run every 10 days.
 Use supplied bat-files to check activation state. ***(Need Administrator rules)***
 
 ## Download ##
-Click here to download [Release](https://github.com/poJLikno/WinActor/Release)
+Click here to download [Release](https://github.com/poJLikno/WinActor/releases)
