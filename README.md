@@ -24,8 +24,9 @@ KMS services working for 180 days, reactivation is necessary.
 App uses flag -c to remove key, then app activates product again
 
 So, App works in silent mode.
-It's very useful, 'cause don't distract while user work.
+It's very useful cause don't distract while user work.
 You can create schedule task using command in bat-file and xml-configuration of task. ***(Need Administrator rules)***
+Or you can run ```WinActorInstaller.exe``` to create **C:\Windows\WinActor** directory and create reactivation schedule task. ***(Run with Administrator rules)***
 Reactivation will run every 10 days.
 
 ## Check Activation state ##
