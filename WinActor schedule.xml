@@ -38,7 +38,7 @@
   </Triggers>
   <Actions Context="Author">
     <Exec>
-      <Command>C:\WinActor\WinActor.exe</Command>
+      <Command>C:\Windows\WinActor\WinActor.exe</Command>
       <Arguments>-rwo</Arguments>
     </Exec>
   </Actions>
